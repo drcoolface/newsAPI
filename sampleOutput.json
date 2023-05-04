@@ -1,0 +1,89 @@
+{
+    "status": "ok",
+    "totalResults": 7,
+    "articles": [{
+        "source": {
+            "id": "bbc-news",
+            "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "AI 'godfather' Geoffrey Hinton warns of dangers as he quits Google",
+        "description": "Geoffrey Hinton tells the BBC some of the dangers in the artificial intelligence field \"are quite scary\".",
+        "url": "http://www.bbc.co.uk/news/world-us-canada-65452940",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/DF9E/production/_129564275_de27.jpg",
+        "publishedAt": "2023-05-02T00:37:16.9453652Z",
+        "content": "A man widely seen as the godfather of artificial intelligence (AI) has quit his job, warning about the growing dangers from developments in the field. \r\nGeoffrey Hinton, aged 75, announced his resign… [+1869 chars]"
+    }, {
+        "source": {
+            "id": "independent",
+            "name": "Independent"
+        },
+        "author": "Andrew Griffin",
+        "title": "‘Godfather of AI’ quits Google and gives warning about the future of technology",
+        "description": "Geoffrey Hinton, known as the “godfather of AI”, has quit Google with a terrifying warning about the dangers the technology poses.",
+        "url": "http://www.independent.co.uk/tech/google-ai-hinton-google-quits-b2330443.html",
+        "urlToImage": "https://static.independent.co.uk/2023/05/01/20/iStock-1468873339.jpg?quality=75&width=1200&auto=webp",
+        "publishedAt": "2023-05-01T19:50:18Z",
+        "content": "For free real time breaking news alerts sent straight to your inbox sign up to our breaking news emails\r\nSign up to our free breaking news emails\r\nGeoffrey Hinton, known as the godfather of AI, has q… [+1835 chars]"
+    }, {
+        "source": {
+            "id": "business-insider",
+            "name": "Business Insider"
+        },
+        "author": "Grace Mayer",
+        "title": "'Godfather of AI' quits Google, sounds alarm on AI chatbots",
+        "description": "Geoffrey Hinton, who worked at Google for over a decade, told the New York Times he regrets his role in developing AI technologies.",
+        "url": "http://www.businessinsider.com/geoffrey-hinton-godfather-of-ai-quits-google-sounds-alarm-chatbots-2023-5",
+        "urlToImage": "https://i.insider.com/644fe1b9da6d7b0019bdca65?width=1200&format=jpeg",
+        "publishedAt": "2023-05-01T18:33:11Z",
+        "content": "After recently leaving behind his decade-long career at Google, Geoffrey Hinton, nicknamed \"the Godfather of AI,\" told The New York Times he has regrets around the foundational role he played in deve… [+2990 chars]"
+    }, {
+        "source": {
+            "id": "business-insider-uk",
+            "name": "Business Insider (UK)"
+        },
+        "author": "Grace Mayer",
+        "title": "'Godfather of AI' quits Google, sounds alarm on AI chatbots",
+        "description": "Geoffrey Hinton, who worked at Google for over a decade, told the New York Times he regrets his role in developing AI technologies.",
+        "url": "http://uk.businessinsider.com/geoffrey-hinton-godfather-of-ai-quits-google-sounds-alarm-chatbots-2023-5",
+        "urlToImage": "https://i.insider.com/644fe1b9da6d7b0019bdca65?width=1200&format=jpeg",
+        "publishedAt": "2023-05-01T18:33:11Z",
+        "content": "After recently leaving behind his decade-long career at Google, Geoffrey Hinton, nicknamed \"the Godfather of AI,\" told The New York Times he has regrets around the foundational role he played in deve… [+2990 chars]"
+    }, {
+        "source": {
+            "id": "goteborgs-posten",
+            "name": "Göteborgs-Posten"
+        },
+        "author": "Karin Jansson",
+        "title": "Hoppet: Nya läkemedlet ska stoppa alzheimers",
+        "description": "Beskrivs som ett enormt genombrott. • Kan godkännas i Sverige nästa år.",
+        "url": "http://www.gp.se/nyheter/sverige/antikroppen-lecanemab-ska-stoppa-alzheimers-sjukdom-1.97884905",
+        "urlToImage": "https://www.gp.se/image/policy:1.97884843:1682408762/image.jpg?f=Wide%26w=1200%26%24p%24f%24w=834285a",
+        "publishedAt": "2023-04-28T06:38:06Z",
+        "content": null
+    }, {
+        "source": {
+            "id": "abc-news-au",
+            "name": "ABC News (AU)"
+        },
+        "author": "Chris Calcino",
+        "title": "Cairns artist David Hudson recalls Island of Dr Moreau experience with Marlon Brando and Val Kilmer",
+        "description": "David Hudson has led an extraordinary life, but his stint as a half-human, half-bison hybrid alongside the Godfather star and Val Kilmer while filming The Island of Dr Moreau remains his strangest claim to fame.",
+        "url": "http://www.abc.net.au/news/2023-04-03/david-hudson-bison-man-brando-island-doctor-moreau-cairns/102171602",
+        "urlToImage": "https://live-production.wcms.abc-cdn.net.au/80c7fd8e780bcaa4cddfa095c6fdf2a1?impolicy=wcms_crop_resize&cropH=1080&cropW=1920&xPos=0&yPos=0&width=862&height=485",
+        "publishedAt": "2023-04-03T00:40:54Z",
+        "content": "David Hudson has led an extraordinary life, but a three-month stint working as a human-bison hybrid alongside Marlon Brando and Val Kilmer in Far North Queensland stands as his strangest claim to fam… [+5646 chars]"
+    }, {
+        "source": {
+            "id": "aftenposten",
+            "name": "Aftenposten"
+        },
+        "author": "Per Anders Johansen",
+        "title": "Europa åpnet grensene i juni. Nye tall forteller hvor mange som ble smittet.",
+        "description": "Noen dager før regjeringen skal bestemme hvilke land nordmenn karantenefritt kan reise til i sommer, ligger en rekke land godt an. Åpning av grensene i Europa i juni har gitt «ubetydelig» importsmitte, ifølge det europeiske smittevernbyrået.",
+        "url": "https://www.aftenposten.no/norge/i/Vb0aw3/Europa-apnet-grensene-i-juni-Nye-tall-viser-hvor-mange-som-ble-smittet",
+        "urlToImage": "https://premium.vgc.no/ap/images/a1eb0ab3-175c-4ca4-a8a1-4339c02b96ae?fit=crop&q=80&w=1440",
+        "publishedAt": "2020-07-08T17:24:44Z",
+        "content": "Noen dager før regjeringen skal bestemme hvilke land nordmenn karantenefritt kan reise til i sommer, ligger en rekke land godt an. Åpning av grensene i Europa i juni har gitt «ubetydelig» importsmitt… [+41 chars]"
+    }]
+}

@@ -1,13 +1,13 @@
 import React from 'react'
+import Navbar from './components/Navbar'
+import News from './components/News'
 
 function App() {
   return (
-    <div className='flex '>
-      <div className='py-2'> dwd </div>
-      <div> dwd </div>
-      <div> dwd </div>
-
-    </div>
+    <>
+    <Navbar />    
+    <News />
+    </>
   )
 }
 
