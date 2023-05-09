@@ -14,14 +14,30 @@ function Navbar(props) {
           <li className="nav-item">
             <a className="nav-link active" aria-current="page" href="/">Home</a>
           </li>
+         <li className="nav-item">
+            <a className="nav-link active" aria-current="page" href="/"> business </a>
+          </li>
+         <li className="nav-item">
+            <a className="nav-link active" aria-current="page" href="/"> entertainment</a>
+          </li>
+         <li className="nav-item">
+            <a className="nav-link active" aria-current="page" href="/"> general</a>
+          </li>
+         <li className="nav-item">
+            <a className="nav-link active" aria-current="page" href="/"> health
+            </a>
+          </li>
           <li className="nav-item">
-            <a className="nav-link" href="/">Link</a>
+            <a className="nav-link active" aria-current="page" href="/"> science</a>
+          </li>
+         <li className="nav-item">
+            <a className="nav-link active" aria-current="page" href="/"> sports</a>
+          </li>
+         <li className="nav-item">
+            <a className="nav-link active" aria-current="page" href="/"> technology</a>
           </li>
         </ul>
-        <form className="d-flex" role="search">
-          <input className="form-control me-2" type="search" placeholder="Search" aria-label="Search" />
-          <button className="btn btn-outline-success" type="submit">Search</button>
-        </form>
+       
       </div>
     </div>
   </nav>
