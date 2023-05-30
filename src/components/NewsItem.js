@@ -1,6 +1,7 @@
 import React from 'react'
 
 const NewsItem = (props) => {
+  
   return (
     <div >
       <div className="card" style = {{width: "18rem"}}>

@@ -2,7 +2,7 @@ import React, { useEffect, useState } from 'react';
 import NewsItem from './NewsItem';
 
 const apiKey = 'ec2b46f804054441a8d613bc2c7c58c9';
-
+ 
 const News = (props) => {
   const [articles, setArticles] = useState([]);
   const [totalResults, setTotalResults] = useState(0);
@@ -56,17 +56,9 @@ const News = (props) => {
                     : article.title.slice(0, 45) + '...'
                 }
                 desc={
-                  !article.description
-                    ? 'No desc'
-                    : article.description.length < 90
-                    ? article.description
-                    : article.description.slice(0, 90) + '...'
+                  !article.description ? 'No desc': article.description.length < 90? article.description: article.description.slice(0, 90) + '...'
                 }
-                imgUrl={
-                  article.urlToImage
-                    ? article.urlToImage
-                    : 'https://sirv.sirv.com/assets/error_pages/0.svg'
-                }
+                imgUrl={article.urlToImage ? article.urlToImage : 'https://sirv.sirv.com/assets/error_pages/0.svg'}
                 newsUrl={article.url}
               />
             </div>
